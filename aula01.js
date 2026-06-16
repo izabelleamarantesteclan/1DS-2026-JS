@@ -6,5 +6,4 @@ console.log( 3 * 4 );
 console.log( true );
 console.log( 3.89 );
 
-console.log( "Izabelle" + " " +23+" " + 1.83+" "+  true )
-
+console.log( "Izabelle" + " " +23+" " + 1.83+" "+  true 
