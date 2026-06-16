@@ -8,3 +8,5 @@
  let salarioBonus = 100;
 
  let salarioTotal = salarioBonus + salarioPessoa;
+ console.log(pessoa);
+ console.log(idadePessoa);
